@@ -1,0 +1,14 @@
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\bin\Debug\net8.0\Harry potter Project.exe
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\bin\Debug\net8.0\Harry potter Project.deps.json
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\bin\Debug\net8.0\Harry potter Project.runtimeconfig.json
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\bin\Debug\net8.0\Harry potter Project.dll
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\bin\Debug\net8.0\Harry potter Project.pdb
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.AssemblyInfoInputs.cache
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.AssemblyInfo.cs
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.csproj.CoreCompileInputs.cache
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.dll
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\refint\Harry potter Project.dll
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.pdb
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\Harry potter Project.genruntimeconfig.cache
+C:\Users\Didrik\OneDrive\Skrivebord\Koding og skole\Kode filer\Prosjekter\Harry Potter\Harry potter Project\obj\Debug\net8.0\ref\Harry potter Project.dll
